@@ -6,4 +6,4 @@ Originally used by Jet Commerce Philippines
 
 ## Installation
 
-composer require paulwscom/lazada-php-sdk
+  composer require paulwscom/lazada-php-sdk
