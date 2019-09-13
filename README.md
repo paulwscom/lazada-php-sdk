@@ -5,4 +5,6 @@ This project aims to easily add Lazada PHP SDK for Laravel Project
 Originally used by Jet Commerce Philippines
 
 ## Installation
+
+Via Composer
 `composer require paulwscom/lazada-php-sdk`
