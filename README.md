@@ -1,8 +1,6 @@
-# Lazada PHP SDK for Laravel
+# Lazada PHP SDK
 
-This project aims to easily add Lazada PHP SDK for Laravel Project
-
-Originally used by Jet Commerce
+This SDK is available to download at https://open.lazada.com
 
 ## Installation
 
