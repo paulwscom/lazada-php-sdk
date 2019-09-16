@@ -2,6 +2,8 @@
 
 namespace Paulwscom\Lazada;
 
+use Exception;
+
 class LazopRequest
 {
 	public $apiName;
