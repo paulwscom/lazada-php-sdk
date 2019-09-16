@@ -1,7 +1,7 @@
 {
     "name": "paulwscom/lazada-php-sdk",
-    "version": "1.0",
-    "description": "A Lazada PHP SDK for Laravel",
+    "version": "v1.0",
+    "description": "A Lazada PHP SDK",
     "keywords": [
         "lazada",
         "laravel"
