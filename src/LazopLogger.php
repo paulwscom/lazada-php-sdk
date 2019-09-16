@@ -8,7 +8,7 @@ class LazopLogger
 {
 	public function log($logData)
 	{
-		Log::channel('lazada')->info($logData);
+		Log::error($logData);
 	}
 }
 ?>
