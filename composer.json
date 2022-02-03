@@ -1,6 +1,6 @@
 {
     "name": "paulwscom/lazada-php-sdk",
-    "description": "A Lazada PHP SDK for Laravel",
+    "description": "A Lazada PHP SDK",
     "keywords": [
         "lazada",
         "laravel"
@@ -9,7 +9,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Paul Mikki Escorido",
+            "name": "Paul Web Services",
             "email": "paulwscom@gmail.com",
             "homepage": "https://www.paulws.com",
             "role": "Developer"
